@@ -1,2 +1,1 @@
-# gitCourse
-Learning gitCommands
+Hello world 
